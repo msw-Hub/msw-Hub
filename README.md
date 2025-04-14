@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/msw-Hub/msw-Hub/raw/main/gif/title.gif" width="100%" />
+  <img src="https://github.com/msw-Hub/msw-Hub/raw/main/gif/title.gif" width="100%" style="margin: 0; padding: 0; display: block;" />
 </div>
 
 
