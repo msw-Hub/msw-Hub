@@ -24,7 +24,7 @@
     <div align="center">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"><br/>
+        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"><br/>
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
@@ -39,10 +39,10 @@
   <div align="center">
     <!-- Moaloa Project -->
     <a href="https://moaloa.org/">
-       <img src="https://img.shields.io/badge/MoaLoa-007396?style=flat&logo=Spring Boot&logoColor=white">
+       <img src="https://img.shields.io/badge/MoaLoa-007396?style=flat&logo=springboot&logoColor=white">
     </a>
     <a href="https://github.com/msw-Hub/copyProject">
-      <img src="https://img.shields.io/badge/SWR-0A74DA?style=flat&logo=Spring Boot&logoColor=white">
+      <img src="https://img.shields.io/badge/SWR-0A74DA?style=flat&logo=springboot&logoColor=white">
     </a>
   </div>
 </div>
